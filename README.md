@@ -9,3 +9,4 @@
 - Import the project in IDE (eg:IntelliJ)
 - In Resources/application.properties change the <password> and <dbname> with the password and dbname sent in mail
 - Run the RoleApplication.java main file 
+- Open http://localhost:8080/swagger-ui.html and Run the Crud Operations.
